@@ -1,0 +1,7 @@
+{
+    "name": "denis909/yii2-theme-sbadmin2-backend",
+    "require": {
+        "denis909/yii2-backend-theme": "*",
+        "denis909/yii2-theme-sbadmin2": "*"
+    }
+}
