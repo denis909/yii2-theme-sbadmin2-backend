@@ -4,6 +4,7 @@ return [
     'container' => [
         'definitions' => [
             'backend\theme\ActionMenu' => 'denis909\themes\sbadmin2\ActionMenu',
+            'backend\theme\ActiveForm' => 'denis909\themes\sbadmin2\ActiveForm',            
             'backend\theme\AlertMessages' => 'denis909\themes\sbadmin2\AlertMessages',
             'backend\theme\Assets' => 'denis909\themes\sbadmin2\Assets',
             'backend\theme\Breadcrumbs' => 'denis909\themes\sbadmin2\Breadcrumbs',
