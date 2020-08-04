@@ -3,14 +3,10 @@
 return [
     'container' => [
         'definitions' => [
-            'backend\theme\ActionMenu' => 'denis909\themes\sbadmin2\ActionMenu',
-            'backend\theme\ActiveForm' => 'denis909\themes\sbadmin2\ActiveForm',            
+            'backend\theme\ActionMenu' => 'denis909\themes\sbadmin2\ActionMenu',         
             'backend\theme\AlertMessages' => 'denis909\themes\sbadmin2\AlertMessages',
             'backend\theme\Assets' => 'denis909\themes\sbadmin2\Assets',
             'backend\theme\Breadcrumbs' => 'denis909\themes\sbadmin2\Breadcrumbs',
-            'backend\theme\DateInput' => 'denis909\themes\sbadmin2\DateInput',
-            'backend\theme\DateTimeInput' => 'denis909\themes\sbadmin2\DateTimeInput',
-            'backend\theme\DateRangeInput' => 'denis909\themes\sbadmin2\DateRangeInput',
             'backend\theme\DetailView' => 'denis909\themes\sbadmin2\DetailView',
             'backend\theme\GridView' => 'denis909\themes\sbadmin2\GridView',
             'backend\theme\Infocard' => 'denis909\themes\sbadmin2\Infocard',

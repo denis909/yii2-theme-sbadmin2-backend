@@ -4,6 +4,7 @@
     "require": {
         "denis909/yii2-theme-sbadmin2": "*",
         "denis909/yii2-backend-theme": "*",
-        "denis909/yii2-cascade-config": "*"
+        "denis909/yii2-cascade-config": "*",
+        "denis909/yii2-bootstrap4-backend": "*"
     }
 }
