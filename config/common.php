@@ -1,6 +1,16 @@
 <?php
 
 return [
+    'components' => [
+        'assetManager' => [
+            'bundles' => [
+                'yii\web\JqueryAsset' => [
+                    'js' => [],
+                    'css' => []
+                ]
+            ]
+        ]
+    ],
     'container' => [
         'definitions' => [
             'backend\theme\ActionMenu' => 'denis909\themes\sbadmin2\ActionMenu',         
