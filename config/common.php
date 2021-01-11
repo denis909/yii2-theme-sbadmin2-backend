@@ -7,6 +7,14 @@ return [
                 'yii\web\JqueryAsset' => [
                     'js' => [],
                     'css' => []
+                ],
+                'yii\bootstrap4\BootstrapAsset' => [
+                    'js' => [],
+                    'css' => []
+                ],
+                'yii\bootstrap4\BootstrapPluginAsset' => [
+                    'js' => [],
+                    'css' => []
                 ]
             ]
         ]
